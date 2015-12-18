@@ -7,7 +7,9 @@ Websites are stored according to the development company, then the client and fi
 * Dinner With Gail
 * MiHost
 
-Websites are developed using HTML5 and Javascript, and each website should be responsive.
+Websites are developed using HTML5 and Javascript, and each website should be responsive. Development that requires external libraries should make use of those included in this repository as they are know to work. The use of external libraries needs to be motivated. The following libraries are available:
+* jQuery 2.1.4
+* Bootstrap 3.3.6
 
 ## Development Environments
 ### Windows
