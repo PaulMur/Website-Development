@@ -1,7 +1,5 @@
-# Digital-Advertising
+# Dinner With Gail
 ## Introduction
-Repository houses Adloc8tor's Digital Signage and Advertising solutions. Code supports:
-* Revel platform
 
 ## Development Environments
 ### Windows
@@ -10,6 +8,6 @@ Software: <Add here>
 Development environment location: <Add here>
 
 ### Mac OS X
-Software:
+Software: Visual Studio Code
 
-Development environment location: ~/Documents/Projects/Digital Advertising
+Development environment location: ~/Documents/Projects/Websites/Dinner With Gail/
