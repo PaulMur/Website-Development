@@ -7,6 +7,8 @@ Websites are stored according to the development company, then the client and fi
 * Dinner With Gail
 * MiHost
 
+Websites are developed using HTML5 and Javascript, and each website should be responsive.
+
 ## Development Environments
 ### Windows
 Software: <Add here>
