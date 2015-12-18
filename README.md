@@ -2,7 +2,7 @@
 ##Introduction
 Repository for websites that are built using templates and/or do not depend on external data sources.
 
-Websites are stored according to the development company.
+Websites are stored according to the development company, then the client and finally by project.
 * Adloc8tor
 * Dinner With Gail
 * MiHost
