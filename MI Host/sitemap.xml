@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+<url>
+  <loc>http://mihost.co.za/</loc>
+  <lastmod>2013-08-15T16:50:18+00:00</lastmod>
+  <changefreq>always</changefreq>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>http://mihost.co.za/index.html</loc>
+  <lastmod>2013-08-15T16:50:18+00:00</lastmod>
+  <changefreq>always</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://mihost.co.za/features.html</loc>
+  <lastmod>2013-08-15T16:50:18+00:00</lastmod>
+  <changefreq>always</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://mihost.co.za/testimonials.html</loc>
+  <lastmod>2013-08-15T16:50:19+00:00</lastmod>
+  <changefreq>always</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://mihost.co.za/pricing.html</loc>
+  <lastmod>2013-08-15T16:50:18+00:00</lastmod>
+  <changefreq>always</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://mihost.co.za/vps.html</loc>
+  <lastmod>2013-08-15T16:50:19+00:00</lastmod>
+  <changefreq>always</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://mihost.co.za/dedicated.html</loc>
+  <lastmod>2013-08-15T16:50:17+00:00</lastmod>
+  <changefreq>always</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://mihost.co.za/contact.html</loc>
+  <lastmod>2013-08-15T16:50:18+00:00</lastmod>
+  <changefreq>always</changefreq>
+  <priority>0.80</priority>
+</url>
+</urlset>

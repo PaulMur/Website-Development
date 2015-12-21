@@ -1,0 +1,6 @@
+
+RewriteEngine on
+RewriteCond %{HTTP_HOST} ^itcweb\.co\.za$ [OR]
+RewriteCond %{HTTP_HOST} ^www\.itcweb\.co\.za$
+RewriteRule ^/?$ "http\:\/\/mihost\.co\.za" [R=301,L]
+
