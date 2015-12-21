@@ -1,0 +1,410 @@
+body {
+  background-color: rgb(255, 255, 255);
+  font: 400 0.75em/1.38 Helvetica;
+  color: rgb(255, 255, 255);
+}
+
+.ca {
+  display: block;
+  float: left;
+  clear: both;
+  width: 21.765625%;
+  height: 38px;
+  margin: 194px 0 0 53%;
+  border-right: 2px solid rgb(255, 255, 255);
+  border-bottom: 2px solid rgb(255, 255, 255);
+  border-radius: 8px;
+  background-color: rgb(65, 64, 66);
+  font-size: 1.333em;
+  font-weight: 400;
+  line-height: 1.38;
+  text-align: center;
+  color: rgb(214, 210, 14);
+}
+
+.color-bar {
+  float: left;
+  clear: both;
+  width: 100%;
+  height: 6px;
+  background-color: rgb(214, 210, 14);
+}
+
+.contact {
+  float: left;
+  font-weight: 400;
+  line-height: 1.38;
+  color: rgb(255, 255, 255);
+}
+
+.email {
+  float: left;
+  width: 3.25%;
+  height: 39px;
+  margin: 10px 0 0 23.91667%;
+  background-image: url('../images/Email%20Icon.png');
+  background-size: cover;
+  background-position: center center;
+}
+
+.facebook {
+  float: left;
+  width: 3.25%;
+  height: 39px;
+  margin: 10px 0 0 1.08073%;
+  background-image: url('../images/FB%20Icon.png');
+  background-size: cover;
+  background-position: center center;
+}
+
+.footer {
+  float: left;
+  clear: both;
+  width: 100%;
+  height: 137px;
+  background-color: rgb(65, 64, 66);
+}
+
+.footer .contact {
+  position: relative;
+  z-index: 15;
+  width: 6.8333333333%;
+  min-height: 26px;
+  margin: 35px 0 0 53.56771%;
+  font-size: 1.333em;
+}
+
+.footer-brand {
+  position: relative;
+  float: left;
+  z-index: 16;
+  width: 19.5989583333%;
+  min-height: 27px;
+  margin: 31px 0 0 10%;
+  font-size: 2em;
+  font-weight: 700;
+  line-height: 1.38;
+  letter-spacing: 1px;
+  color: rgb(214, 210, 14);
+}
+
+.footer-links {
+  position: relative;
+  float: left;
+  clear: both;
+  z-index: 17;
+  width: 40%;
+  margin: 22px 0 0 10%;
+  font-size: 1em;
+  line-height: 1.38;
+  color: rgb(255, 255, 255);
+}
+
+.header {
+  float: left;
+  width: 100%;
+  height: 104px;
+  background-color: rgb(65, 64, 66);
+}
+
+.header .contact {
+  width: 5.19921875%;
+  margin: 47px 0 0 1.59896%;
+  font-size: 1em;
+  text-align: center;
+}
+
+.home {
+  float: left;
+  width: 5.19921875%;
+  margin: 47px 0 0 28.79948%;
+  font-size: 1em;
+  font-weight: 400;
+  line-height: 1.38;
+  text-align: center;
+  color: rgb(255, 255, 255);
+}
+
+.home-pic {
+  position: relative;
+  float: left;
+  clear: both;
+  z-index: 2;
+  width: 100%;
+  height: 733px;
+  background-image: url('../images/Call%20Web.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center center;
+}
+
+.linkedin {
+  position: relative;
+  float: left;
+  z-index: 11;
+  width: 3.25%;
+  height: 39px;
+  margin: 10px 0 0 1%;
+  background-image: url('../images/LinkedIn%20Icon.png');
+  background-size: cover;
+  background-position: 25% 25%;
+}
+
+.logo {
+  display: block;
+  float: left;
+  width: 144px;
+  height: auto;
+  margin: 18px 0 0 10%;
+  overflow: hidden;
+}
+
+.about,
+.mobile,
+.news {
+  float: left;
+  width: 5.19921875%;
+  margin: 47px 0 0 1.59896%;
+  font-size: 1em;
+  font-weight: 400;
+  line-height: 1.38;
+  text-align: center;
+  color: rgb(255, 255, 255);
+}
+
+.software {
+  float: left;
+  width: 5.19921875%;
+  margin: 47px 0 0 1.59896%;
+  font-size: 1em;
+  font-weight: 400;
+  line-height: 1.38;
+  text-align: center;
+  color: rgb(214, 210, 14);
+}
+
+.twitter {
+  position: relative;
+  float: left;
+  z-index: 12;
+  width: 3.25%;
+  height: 39px;
+  margin: 10px 0 0 1%;
+  background-image: url('../images/Twitter%20Icon.png');
+  background-size: cover;
+  background-position: center center;
+}
+
+.vdm {
+  display: block;
+  float: left;
+  width: 21.765625%;
+  height: 38px;
+  margin: 223px 0 0 53%;
+  border-right: 2px solid rgb(255, 255, 255);
+  border-bottom: 2px solid rgb(255, 255, 255);
+  border-radius: 8px;
+  background-color: rgb(65, 64, 66);
+  font-size: 1.333em;
+  font-weight: 400;
+  line-height: 1.38;
+  text-align: center;
+  color: rgb(214, 210, 14);
+}
+
+.color-bar-2 {
+  position: relative;
+  z-index: 20;
+  margin-top: -1px;
+}
+
+.about a,
+.contact a,
+.home a,
+.mobile a,
+.news a,
+.software a {
+  border-top-width: 0;
+  border-right-width: 0;
+  border-bottom-width: 0;
+  border-left-width: 0;
+  border-color: transparent;
+  border-style: none;
+  border-top-left-radius: 0;
+  border-top-right-radius: 0;
+  border-bottom-right-radius: 0;
+  border-bottom-left-radius: 0;
+  background-color: transparent;
+  font-family: inherit;
+  font-style: inherit;
+  font-size: inherit;
+  font-weight: inherit;
+  text-transform: inherit;
+  text-decoration: inherit;
+  letter-spacing: inherit;
+  word-spacing: inherit;
+  color: inherit;
+  opacity: 1;
+  word-break: normal;
+  word-wrap: normal;
+  white-space: normal;
+}
+
+.about span,
+.contact span,
+.home span,
+.mobile span,
+.news span,
+.software span {
+  border-top-width: 0;
+  border-right-width: 0;
+  border-bottom-width: 0;
+  border-left-width: 0;
+  border-color: transparent;
+  border-style: none;
+  border-top-left-radius: 0;
+  border-top-right-radius: 0;
+  border-bottom-right-radius: 0;
+  border-bottom-left-radius: 0;
+  background-color: transparent;
+  font-family: 'Open Sans';
+  font-style: inherit;
+  font-size: inherit;
+  font-weight: 600;
+  text-transform: inherit;
+  text-decoration: inherit;
+  letter-spacing: inherit;
+  word-spacing: inherit;
+  color: inherit;
+  opacity: 1;
+  word-break: normal;
+  word-wrap: normal;
+  white-space: normal;
+}
+
+@media(max-width: 640px) {
+  .color-bar {
+    position: relative;
+  }
+
+  .footer {
+    clear: none;
+  }
+
+  .footer .contact {
+    position: relative;
+    z-index: 15;
+    width: 6.8310546875%;
+    margin-top: 5px;
+    margin-left: 53.56201%;
+  }
+
+  .footer .email {
+    width: 3.2495117187%;
+    margin-left: 23.91602%;
+  }
+
+  .footer .facebook {
+    width: 3.2495117187%;
+    margin-left: 1.07422%;
+  }
+
+  .footer .footer-brand {
+    position: relative;
+    z-index: 16;
+    width: 19.599609375%;
+    margin-top: -2px;
+  }
+
+  .footer .footer-links {
+    position: relative;
+    z-index: 17;
+    margin-top: -15px;
+  }
+
+  .footer .linkedin {
+    position: relative;
+    clear: both;
+    z-index: 11;
+    width: 3.2495117187%;
+    margin-top: -81px;
+    margin-left: 162.65625%;
+  }
+
+  .footer .twitter {
+    position: relative;
+    z-index: 12;
+    width: 3.2495117187%;
+    margin-left: 1.00098%;
+  }
+
+  .header .about {
+    width: 5.1977539062%;
+    margin-top: -45px;
+    margin-left: 57.59766%;
+  }
+
+  .header .contact {
+    width: 5.1977539062%;
+    margin-top: -45px;
+    margin-left: 77.99805%;
+  }
+
+  .header .home {
+    clear: both;
+    width: 5.1977539062%;
+    margin-top: -46px;
+    margin-left: 95.24902%;
+  }
+
+  .header .logo {
+    height: auto;
+    margin-top: 21px;
+  }
+
+  .header .mobile {
+    width: 5.1977539062%;
+    margin-top: -45px;
+    margin-left: 71.19873%;
+  }
+
+  .header .news {
+    width: 5.1977539062%;
+    margin-top: -45px;
+    margin-left: 84.79736%;
+  }
+
+  .header .software {
+    width: 5.1977539062%;
+    margin-top: -45px;
+    margin-left: 64.39697%;
+  }
+
+  .home-pic {
+    position: relative;
+    z-index: 2;
+    width: 99.9975585937%;
+    margin-top: -10px;
+  }
+
+  .home-pic .ca {
+    width: 21.7656681071%;
+    margin-left: 52.9993399999%;
+  }
+
+  .home-pic .vdm {
+    width: 21.7656681071%;
+    margin-top: 221px;
+    margin-left: 52.9993399999%;
+  }
+
+  .color-bar-1 {
+    z-index: 19;
+    margin-top: 12px;
+  }
+
+  .color-bar-2 {
+    z-index: 20;
+    margin-top: -6px;
+  }
+}
