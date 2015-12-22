@@ -1,0 +1,4 @@
+[03-Aug-2015 15:16:43 Africa/Johannesburg] PHP Notice:  Undefined index: product in /home/adloc8tor/public_html/email-pdf.php on line 6
+[03-Aug-2015 15:16:55 Africa/Johannesburg] PHP Notice:  Undefined index: product in /home/adloc8tor/public_html/email-pdf.php on line 6
+[03-Aug-2015 15:18:02 Africa/Johannesburg] PHP Warning:  mail(/var/log/phpmail.log) [<a href='function.mail'>function.mail</a>]: failed to open stream: Permission denied in /home/adloc8tor/public_html/email-pdf.php on line 35
+[03-Aug-2015 15:20:16 Africa/Johannesburg] PHP Warning:  mail(/var/log/phpmail.log) [<a href='function.mail'>function.mail</a>]: failed to open stream: Permission denied in /home/adloc8tor/public_html/email-pdf.php on line 35
